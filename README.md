@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hazwan
+# Hi, I'm Haz
 
 Fresh Computing graduate with first-class honors. Interests in Linux, networking, cybersecurity, CTF solving, and projects involving programming and coding. Looking at Master's options in Australia while hunting entry-level roles.
 
