@@ -16,7 +16,6 @@ This main repository and account is my central spot for my projects and labs. It
 
 ## Skills
 
-<div align="center">
 | Skill | Project/Example |
 |-------|-----------------|
 | Post-Quantum Cryptography | Project |
@@ -24,7 +23,7 @@ This main repository and account is my central spot for my projects and labs. It
 | Virtualization Security | Project |
 | CTF Challenges | Project |
 | Technical Writing | Project |
-</div>
+
 
 ## Certifications
 
