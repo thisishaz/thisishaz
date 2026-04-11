@@ -43,13 +43,14 @@ This main repository and account is my central spot for my projects and labs. It
 
 
 <div align="center">
-<!-- Network: Blues/Purples like image -->
-<a href="#"><img src="https://img.shields.io/badge/Wireshark-EEFF41?style=for-the-badge&logo=wireshark&logoColor=000000" alt="Security Onion"></a>
-<a href="#"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="MailHog"></a>
-<a href="#"><img src="https://img.shields.io/badge/Zee-663399?style=for-the-badge&logo=zeek&logoColor=white" alt="Wireshark"></a>
+<!-- Network Tools -->
+<a href="#"><img src="https://img.shields.io/badge/Wireshark-EEFF41?style=for-the-badge&logo=wireshark&logoColor=000000" alt="Wireshark"></a>
+<a href="#"><img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"></a>
+<a href="#"><img src="https://img.shields.io/badge/MailHog-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+" alt="MailHog"></a>
+<a href="#"><img src="https://img.shields.io/badge/Security_Onion-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" alt="Security Onion"></a>
 
-<!-- SIEM: Purples/Blues/Black like image -->
-<a href="#"><img src="https://img.shields.io/badge/Microsoft_Sentinel-00D4AA?style=for-the-badge&logo=microsoft&logoColor=white" alt="Wazuh"></a>
+<!-- SIEM -->
+<a href="#"><img src="https://img.shields.io/badge/Wazuh-00D4AA?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"></a>
 <a href="#"><img src="https://img.shields.io/badge/Splunk-F05B41?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"></a>
 </div>
 
