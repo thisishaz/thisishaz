@@ -16,6 +16,7 @@ This main repository and account is my central spot for my projects and labs. It
 
 ## Skills
 
+<div align="center">
 | Skill | Project/Example |
 |-------|-----------------|
 | Post-Quantum Cryptography | Project |
@@ -23,6 +24,7 @@ This main repository and account is my central spot for my projects and labs. It
 | Virtualization Security | Project |
 | CTF Challenges | Project |
 | Technical Writing | Project |
+</div>
 
 ## Certifications
 
@@ -34,7 +36,7 @@ This main repository and account is my central spot for my projects and labs. It
 <a href="#"><img src="https://img.shields.io/badge/A%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white" alt="A+"></a>
 <a href="#"><img src="https://img.shields.io/badge/CDSA-663399?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iNy41IiBjeT0iNy41IiByPSI3LjUiIGZpbGw9IiM2NjMzOTkiLz4KPC9zdmc+" alt="CDSA"></a>
 <a href="#"><img src="https://img.shields.io/badge/CCD-8E44AD?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iNy41IiBjeT0iNy41IiByPSI3LjUiIGZpbGw9IiM4RTQ0QUQiLz4KPC9zdmc+" alt="CCD"></a>
-</div>[file:24]
+</div>
 
 ## Tools and Languages
 ### Languages
