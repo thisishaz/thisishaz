@@ -62,11 +62,11 @@ This main repository and account is my central spot for my projects and labs. It
 <a href="#"><img src="https://img.shields.io/badge/Microsoft_Sentinel-00D4AA?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel"></a>
 <a href="#"><img src="https://img.shields.io/badge/Splunk-F05B41?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"></a>
 <a href="#"><img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elastic"></a>
-</div>[file:24]
+</div>
 
 ## Projects
-1. **BackCryptVM** ([github.com/yourusername/backcryptvm](https://github.com/yourusername/backcryptvm))  
-   Built a VM backup tool using PQC encryption. Tested performance against standard methods—key for my research paper. [cite:4]
+1. **BackCryptVM** ()  
+   Built a VM backup tool using PQC encryption. Tested performance against standard methods—key for my research paper. 
 
 <!-- Add more with brief "why I built it" notes for that human touch -->
 
