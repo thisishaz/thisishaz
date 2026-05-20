@@ -56,7 +56,7 @@ This main repository and account is my central spot for my projects and labs. It
 
 
 ## Projects
-1. **BackCryptVM** ()  
+1. **BackCryptVM** 
    A VM backup application that uses PQC encryption to encrypt VM images, and data. BackCryptVM's performance is then tested through standardized practices, and that data is used within a published researched paper.
 
    **Why I Built it**: Initially, BackCryptVM is an application built for a capstone project. It then became an application that tests the performance of backing up VM images and data, using the new PQC encryption method. This application was built to showcase my coding, database handling, and the usage of a novel encryption method. 
